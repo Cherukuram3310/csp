@@ -27,7 +27,7 @@
 }
 .layer{
     height:20vh;
-    background: url('images/page-title-layer.png');
+    background: url('page-title-layer.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
